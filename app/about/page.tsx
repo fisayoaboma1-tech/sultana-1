@@ -15,21 +15,21 @@ export default function AboutPage() {
       <section className="content-section about-content">
         <div className="content-copy">
           <p className="eyebrow">OUR STORY</p>
-          <h2>A trusted link between global producers and local markets.</h2>
+          <h2>A trusted link between producers and local markets.</h2>
           <p>
             Located in Jakarta, Indonesia, we are an importer and distributor of high-quality food
             products, serving a diverse range of clients across retail, wholesale, and foodservice
             sectors.
           </p>
           <p>
-            With a strategic focus on sourcing exceptional products from trusted global suppliers,
+            With a strategic focus on sourcing exceptional products from trusted suppliers,
             we deliver a curated selection of premium products including basmati rice and spread
-            cream.
+            cream, and other food products.
           </p>
           <p>
             We are committed to fostering long-term partnerships, driving innovation in the food
             industry, and delivering value-added solutions that enhance our clients&apos; competitive
-            advantage. Our mission is to be the trusted link between global food producers and local
+            advantage. Our mission is to be the trusted link between food producers and local
             markets, consistently exceeding expectations through reliability, integrity, and
             exceptional service.
           </p>

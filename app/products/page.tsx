@@ -9,7 +9,7 @@ const products = [
     name: "Daawat Basmati Rice",
     category: "PREMIUM BASMATI RICE",
     description:
-      "Premium basmati rice sourced from trusted global suppliers and included in our curated range for retail, wholesale, and foodservice clients.",
+      "Premium basmati rice sourced from trusted suppliers and included in our curated range for retail, wholesale, and foodservice clients.",
     image: "/assets/images/daawat-bg.png",
     className: "product-daawat",
   },
@@ -17,7 +17,7 @@ const products = [
     name: "Antebella Spread Cream",
     category: "SPREAD CREAM",
     description:
-      "Spread cream from our curated product range, serving retail, wholesale, and foodservice clients across Indonesia.",
+      "Spread cream from our curated product range, serving retail, wholesale, and foodservice clients in Indonesia.",
     image: "/assets/images/antebella-bg.png",
     className: "product-antebella",
   },
@@ -29,7 +29,7 @@ export default function ProductsPage() {
       <section className="page-banner">
         <p className="eyebrow">CURATED WITH CARE</p>
         <h1>Our Products</h1>
-        <p>Quality products from trusted global suppliers.</p>
+        <p>Quality products from trusted suppliers.</p>
       </section>
       <section className="content-section products-content">
         <div className="section-heading">

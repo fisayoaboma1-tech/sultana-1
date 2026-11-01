@@ -9,7 +9,7 @@ export default function SiteFooter() {
               <h2>PT. SULTANA AGRO LESTARI</h2>
             </div>
             <p>Supplying Excellence, Delivering Quality since 2020.</p>
-            <p className="footer-muted">Premium importer and distributor of high-quality food products, serving a diverse range of clients across Indonesia.</p>
+            <p className="footer-muted">Premium importer and distributor of high-quality food products, serving a diverse range of clients in Indonesia.</p>
           </section>
           <section>
             <h3><i className="fas fa-map-marker-alt" /> Headquarter</h3>

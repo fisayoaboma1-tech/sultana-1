@@ -13,7 +13,7 @@ export default function Home() {
               <h1><span>Supplying Excellence,</span><strong>Delivering Quality</strong></h1>
               <p className="hero-description">
                 We are a trusted importer and distributor of high-quality food products in Jakarta, Indonesia.
-                Specializing in premium Basmati Rice and Spread Creams from trusted suppliers.
+                Specializing in premium Basmati Rice, Spread Creams, and other food products from trusted suppliers.
               </p>
               <div className="hero-actions">
                 <Link className="button button-primary" href="/products">
